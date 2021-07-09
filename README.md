@@ -21,7 +21,11 @@ Tina Mock interview # 5
 [1/2 KNN Podcast with Dr.Parlett](https://www.youtube.com/watch?v=1PctFrquj9w&t=2204s)
 
 
-[] Day 5 : SQL
+[x] Day 5 : SQL
+[Medium SS SQL Question: Got close!](https://platform.stratascratch.com/coding-question?id=10064&python=)
+I planned some extra learning but was interrupted. 
+
+
 [] Day 6 : SQL
 [] Day 7 : Review
 
