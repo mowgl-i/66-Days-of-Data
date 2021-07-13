@@ -1,0 +1,34 @@
+---
+title: "Sliced - Twitch"
+author: "Michael Puerto"
+date: "7/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+
+```{r, get data}
+library(pacman)
+setwd("~/MSIA-19/Git/66 Days of Data/Sliced")
+
+pacman::p_load(tidyverse, stringr, readr,lubridate)
+
+
+data <- read_csv('train.csv')
+
+```
+
+```{r, view data}
+glimpse(data)
+
+```
+
+```{r, simple agg}
+
+data %>% top_n(Hours_watched,wt = Avg_viewer_ratio) %>% group_by(Year)
+
+```
+
