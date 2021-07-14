@@ -47,3 +47,9 @@ Rchamp live socket connection to twitch. Attempt.
 [Twitch IRC guide](https://dev.twitch.tv/docs/irc/guide). 
 Hoping to have this done by the end of the week????
 
+
+[x] Day 9: 
+
+Continued to work on websocket. 
+Ran into [this](https://rdrr.io/github/rstudio/R-Websockets/man/websocket.html) after trying a couple of hours to get make.socket and Socket connection to work. 
+
