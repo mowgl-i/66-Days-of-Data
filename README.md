@@ -53,3 +53,12 @@ Hoping to have this done by the end of the week????
 Continued to work on websocket. 
 Ran into [this](https://rdrr.io/github/rstudio/R-Websockets/man/websocket.html) after trying a couple of hours to get make.socket and Socket connection to work. 
 
+
+[x] Day 10:
+
+Got the websoket to connect, and print data into console. 
+Worked on SQL questions. Going to get all the free easy questions out of the way. 
+[1](https://platform.stratascratch.com/coding-question?id=10308&python=)
+[2](https://platform.stratascratch.com/coding-question?id=10299&python=) 
+[3](https://platform.stratascratch.com/coding-question?id=10046&python=)
+
