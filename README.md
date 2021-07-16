@@ -62,3 +62,7 @@ Worked on SQL questions. Going to get all the free easy questions out of the way
 [2](https://platform.stratascratch.com/coding-question?id=10299&python=) 
 [3](https://platform.stratascratch.com/coding-question?id=10046&python=)
 
+[x] Day 11:
+Day off, feeling guilty. 
+
+
