@@ -65,4 +65,8 @@ Worked on SQL questions. Going to get all the free easy questions out of the way
 [x] Day 11:
 Day off, feeling guilty. 
 
+[x] Day 12:
+Logged live feed of [Dr.K livestream](https://www.twitch.tv/videos/1088612561). Using Rchamp! Will dissect data tmr. 
+
+
 
