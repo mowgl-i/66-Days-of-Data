@@ -68,5 +68,11 @@ Day off, feeling guilty.
 [x] Day 12:
 Logged live feed of [Dr.K livestream](https://www.twitch.tv/videos/1088612561). Using Rchamp! Will dissect data tmr. 
 
+[x] Day 13: 
+Day off
 
+[x] Day 14:
+Day Off
 
+[x] Day 15
+Attempt to make Dr.K dataset useful. 
