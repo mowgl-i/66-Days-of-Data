@@ -79,3 +79,6 @@ Attempt to make Dr.K dataset useful.
 
 [x] Day 16:
 Only 20 minutes today, didn't get far with Dr.K dataset. 
+
+[x] Day 17:
+Almost finished with LIS Plot
