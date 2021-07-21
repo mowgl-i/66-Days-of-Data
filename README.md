@@ -74,5 +74,8 @@ Day off
 [x] Day 14:
 Day Off
 
-[x] Day 15
+[x] Day 15:
 Attempt to make Dr.K dataset useful. 
+
+[x] Day 16:
+Only 20 minutes today, didn't get far with Dr.K dataset. 
