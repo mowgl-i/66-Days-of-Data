@@ -82,3 +82,7 @@ Only 20 minutes today, didn't get far with Dr.K dataset.
 
 [x] Day 17:
 Almost finished with LIS Plot
+
+[x] Day 18:
+Finished LIS plot
+![plot](https://github.com/mowgl-i/Cool-Vis/blob/main/lisplot.png)
