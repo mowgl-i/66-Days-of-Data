@@ -86,3 +86,6 @@ Almost finished with LIS Plot
 [x] Day 18:
 Finished LIS plot
 ![plot](https://github.com/mowgl-i/Cool-Vis/blob/main/lisplot.png)
+
+[x] Day 19:
+Took a Data Science assessment for a job application
