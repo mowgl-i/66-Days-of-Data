@@ -89,3 +89,9 @@ Finished LIS plot
 
 [x] Day 19:
 Took a Data Science assessment for a job application
+
+[x] Day 20:
+Day off. Out of town. 
+
+[x] Day 21:
+Simple day, refreshed on aggregations with SQL. 
