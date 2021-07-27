@@ -95,3 +95,6 @@ Day off. Out of town.
 
 [x] Day 21:
 Simple day, refreshed on aggregations with SQL. 
+
+[x] Day 22:
+Long SQL day, finished easy questions stratascratch. 
