@@ -98,3 +98,7 @@ Simple day, refreshed on aggregations with SQL.
 
 [x] Day 22:
 Long SQL day, finished easy questions stratascratch. 
+
+[x] Day 23:
+Continued with SQL training. 
+Have interview tmr. 
