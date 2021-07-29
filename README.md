@@ -102,3 +102,8 @@ Long SQL day, finished easy questions stratascratch.
 [x] Day 23:
 Continued with SQL training. 
 Have interview tmr. 
+
+[x] Day 24:
+Continued SQL training.
+Previous work refresher.
+Interview went well. 
