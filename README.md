@@ -107,3 +107,8 @@ Have interview tmr.
 Continued SQL training.
 Previous work refresher.
 Interview went well. 
+
+[x] Day 25:
+Finished MODE SQL lessons, completed a few more medium questions. 
+Another on the fly interview today, went well I believe. 
+
