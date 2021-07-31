@@ -112,3 +112,5 @@ Interview went well.
 Finished MODE SQL lessons, completed a few more medium questions. 
 Another on the fly interview today, went well I believe. 
 
+[x] Day 26:
+Did more SQL practice. Watched a few Anastasia K videos. Took Epic Games assesment (SQL and Visualization). 
