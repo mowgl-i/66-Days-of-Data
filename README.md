@@ -114,3 +114,7 @@ Another on the fly interview today, went well I believe.
 
 [x] Day 26:
 Did more SQL practice. Watched a few Anastasia K videos. Took Epic Games assesment (SQL and Visualization). 
+
+
+[x] Day 27:
+Almost finished with medium SQL questions from Stratascratch. Poggies. 
