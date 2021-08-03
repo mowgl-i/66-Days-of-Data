@@ -118,3 +118,10 @@ Did more SQL practice. Watched a few Anastasia K videos. Took Epic Games assesme
 
 [x] Day 27:
 Almost finished with medium SQL questions from Stratascratch. Poggies. 
+
+[x] Day 28:
+Day off. Tbh I had the intentions but forgot until 12 minutes past 12am
+
+[x] Day 29:
+Very quick SQL practice. The medium questions are done, now attempting the hard questions. 
+[quesiton 1](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?python=)
