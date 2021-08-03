@@ -125,3 +125,9 @@ Day off. Tbh I had the intentions but forgot until 12 minutes past 12am
 [x] Day 29:
 Very quick SQL practice. The medium questions are done, now attempting the hard questions. 
 [quesiton 1](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?python=)
+
+
+[x] Day 30:
+Completed 2 hard questions on stratascratch. 
+[1](https://platform.stratascratch.com/coding/9915-highest-cost-orders?python=)
+[2](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python=)
