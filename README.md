@@ -131,3 +131,7 @@ Very quick SQL practice. The medium questions are done, now attempting the hard 
 Completed 2 hard questions on stratascratch. 
 [1](https://platform.stratascratch.com/coding/9915-highest-cost-orders?python=)
 [2](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python=)
+
+[x] Day 31:
+Long day, did watch this [KNN podcast](). Gives me motivation to continue my Twitch endevours. 
+When they think about Twitch and data, I want to be one of those names that come up.  
