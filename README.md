@@ -135,3 +135,8 @@ Completed 2 hard questions on stratascratch.
 [x] Day 31:
 Long day, did watch this [KNN podcast](https://www.youtube.com/watch?v=YsIcuj8o9wM). Gives me motivation to continue my Twitch endevours. 
 When they think about Twitch and data, I want to be one of those names that come up.  
+
+[x] Day 32:
+
+Close to parsing Dr.K log. 
+Stuck on capturing text past 3rd colon. 
