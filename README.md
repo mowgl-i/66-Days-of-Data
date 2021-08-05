@@ -133,5 +133,5 @@ Completed 2 hard questions on stratascratch.
 [2](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python=)
 
 [x] Day 31:
-Long day, did watch this [KNN podcast](). Gives me motivation to continue my Twitch endevours. 
+Long day, did watch this [KNN podcast](https://www.youtube.com/watch?v=YsIcuj8o9wM). Gives me motivation to continue my Twitch endevours. 
 When they think about Twitch and data, I want to be one of those names that come up.  
