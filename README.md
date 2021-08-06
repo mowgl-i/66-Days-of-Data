@@ -139,4 +139,8 @@ When they think about Twitch and data, I want to be one of those names that come
 [x] Day 32:
 
 Close to parsing Dr.K log. 
-Stuck on capturing text past 3rd colon. 
+Stuck on capturing text past 3rd colon.
+
+[x] Day 33:
+Finished Dr.K Log. Searched from end of line. Also wrapped live socket into function, though, I'm not sure how to close it once it's ran. 
+Maybe assign websocket to global env instead of local funciton env. 
