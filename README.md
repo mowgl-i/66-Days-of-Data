@@ -144,3 +144,7 @@ Stuck on capturing text past 3rd colon.
 [x] Day 33:
 Finished Dr.K Log. Searched from end of line. Also wrapped live socket into function, though, I'm not sure how to close it once it's ran. 
 Maybe assign websocket to global env instead of local funciton env. 
+
+[X] Day 34:
+
+Let the logger collect XQC data. Still going as I type. Though, I will remove or add option to print chat to console. Atm R is still collecting but the gui has frozen.
