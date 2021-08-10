@@ -150,3 +150,6 @@ Let the logger collect XQC data. Still going as I type. Though, I will remove or
 
 [x] Day 35:
 Day off
+
+[x] Day 36:
+Slow day, watched [KNN video](https://www.youtube.com/watch?v=5c4UvVB2zdU&t=10s)
