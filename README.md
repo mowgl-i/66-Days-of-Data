@@ -156,3 +156,6 @@ Slow day, watched [KNN video](https://www.youtube.com/watch?v=5c4UvVB2zdU&t=10s)
 
 [x] Day 37:
 Learned some quick tips about Big Query, watched noise VS bias anastasia K vid, now watching sliced semifinals. 
+
+[x] Day 38:
+Busy day, watched a [KNN short about data viz](https://www.youtube.com/watch?v=LQGK4IL7kOE)
