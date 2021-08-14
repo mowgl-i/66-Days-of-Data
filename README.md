@@ -164,4 +164,4 @@ Busy day, watched a [KNN short about data viz](https://www.youtube.com/watch?v=L
 Re-programed my keyboard to use mouse keys. Will keep tweaking it so that I won't need a mouse in the office.
 
 [x] Day 40:
-Day Off
+Day Off -> There was actually some time left in the day, so I watched some KNN podcast clips about studying and a snippit of Anastasia K vid 'interview with data scientist'
