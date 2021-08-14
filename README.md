@@ -162,3 +162,6 @@ Busy day, watched a [KNN short about data viz](https://www.youtube.com/watch?v=L
 
 [x] Day 39:
 Re-programed my keyboard to use mouse keys. Will keep tweaking it so that I won't need a mouse in the office.
+
+[x] Day 40:
+Day Off
