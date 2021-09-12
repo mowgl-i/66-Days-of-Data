@@ -2,8 +2,10 @@
 ---
 
 Week 1: Revisit previous work in python. Build python reflex.
+---
 
 Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook).
+
 ---
 - [] Day 1
 - [] Day 2
@@ -15,6 +17,7 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 
 
 Week 2: Looking for indepth pandas magic to speed up analysis. 
+---
 
 [Welcome to advanced pandas](https://www.kaggle.com/residentmario/welcome-to-advanced-pandas)
 
@@ -39,6 +42,7 @@ Week 2: Looking for indepth pandas magic to speed up analysis.
 - [] Day 14
 
 Week 3: ML with Python Review 
+---
 
 [Intro to ML with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)
 
@@ -57,10 +61,12 @@ Week 3: ML with Python Review
 - [] Day 21
 
 Week 4: Building Portfolios with Python
+---
 
 [DS Portfolio](https://github.com/sajal2692/data-science-portfolio)
 
 [Portfolio in Python and Django](https://dev.to/randysteele/how-i-built-my-portfolio-site-in-django-part-1-53nk)
+
 ---
 
 - [] Day 22
@@ -73,6 +79,7 @@ Week 4: Building Portfolios with Python
 
 
 Week 5: Cloud data products and their relevance to my work. A goal in mind here is to send twitch data into a Bigquery DB or AWS Bucket. 
+---
 
 [Understanding Cloud data services](https://www.kdnuggets.com/2019/06/understanding-cloud-data-services.html#:~:text=Cloud%20Vendors%20examples%20include%20AWS,Data%20processing%20and%20analytics%20workloads.)
 
@@ -102,12 +109,11 @@ Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9
 - [] Day 42
 
 Week 7: Deep Learning Continues: 
+---
 
 [Pytorch](https://github.com/fastai/fastbook)
 
 [NLP with Pytorch](https://app.pluralsight.com/library/courses/natural-language-processing-pytorch/table-of-contents)
-
----
 
 - [] Day 43
 - [] Day 44
@@ -118,7 +124,6 @@ Week 7: Deep Learning Continues:
 - [] Day 49
 
 Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-
 ---
 
 - [] Day 50
@@ -131,6 +136,7 @@ Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resource
 
 
 Week 9: Advanced NLP with Python.
+---
 
 [spaCy for text processing](https://course.spacy.io/en/)
 
