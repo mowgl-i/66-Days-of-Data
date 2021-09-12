@@ -1,7 +1,7 @@
 **Days of Data part 2** 
 ---
 
-**Week 1: Revisit previous work in python. Build python reflex.**
+Week 1: Revisit previous work in python. Build python reflex.
 
 Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook).
 ---
