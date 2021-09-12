@@ -1,7 +1,7 @@
-** Days of Data part 2 ** 
+**Days of Data part 2** 
 ---
 
-**Week 1: Revisit previous work in python. Build python reflex. **
+**Week 1: Revisit previous work in python. Build python reflex.**
 Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook).
 ---
 - [] Day 1
@@ -13,7 +13,13 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 - [] Day 7
 
 
-Week 2:
+Week 2: Looking for indepth pandas magic to speed up analysis. 
+[Welcome to advanced pandas](https://www.kaggle.com/residentmario/welcome-to-advanced-pandas)
+[Advanced pandas article](https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086)
+[From novice to advanced pandas](https://towardsdatascience.com/30-examples-to-get-you-from-a-novice-to-an-advanced-pandas-user-e6eb4e8750b7)
+[Pandas to optimize speed and memory](https://medium.com/bigdatarepublic/advanced-pandas-optimize-speed-and-memory-a654b53be6c2)
+[Advanced pandas features](https://www.kdnuggets.com/2019/10/5-advanced-features-pandas.html)
+[Pandas Cheat Sheet](https://www.educative.io/blog/pandas-cheat-sheet)
 ---
 
 - [] Day 8
@@ -24,7 +30,10 @@ Week 2:
 - [] Day 13
 - [] Day 14
 
-Week 3:
+Week 3: ML with Python Review 
+[Intro to ML with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)
+[Understanding ML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+[Google ML course](https://developers.google.com/machine-learning/crash-course)
 ---
 
 - [] Day 15
@@ -35,7 +44,9 @@ Week 3:
 - [] Day 20
 - [] Day 21
 
-Week 4:
+Week 4: Building Portfolios with Python
+[DS Portfolio](https://github.com/sajal2692/data-science-portfolio)
+[Portfolio in Python and Django](https://dev.to/randysteele/how-i-built-my-portfolio-site-in-django-part-1-53nk)
 ---
 
 - [] Day 22
@@ -47,7 +58,12 @@ Week 4:
 - [] Day 28
 
 
-Week 5:
+Week 5: Cloud data products and their relevance to my work. A goal in mind here is to send twitch data into a Bigquery DB or AWS Bucket. 
+
+[Understanding Cloud data services](https://www.kdnuggets.com/2019/06/understanding-cloud-data-services.html#:~:text=Cloud%20Vendors%20examples%20include%20AWS,Data%20processing%20and%20analytics%20workloads.)
+[Ai with Google](https://ai.google/education/)
+[Accenture Applied AI](https://www.accenture.com/us-en/services/applied-intelligence/solutions-ai)
+
 ---
 
 - [] Day 29
@@ -58,7 +74,7 @@ Week 5:
 - [] Day 34
 - [] Day 35
 
-Week 6:
+Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view)
 ---
 
 - [] Day 36
@@ -69,7 +85,9 @@ Week 6:
 - [] Day 41
 - [] Day 42
 
-Week 7:
+Week 7: Deep Learning Continues: 
+[Pytorch](https://github.com/fastai/fastbook)
+[NLP with Pytorch](https://app.pluralsight.com/library/courses/natural-language-processing-pytorch/table-of-contents)
 ---
 
 - [] Day 43
@@ -80,7 +98,8 @@ Week 7:
 - [] Day 48
 - [] Day 49
 
-Week 8:
+Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+
 ---
 
 - [] Day 50
@@ -92,7 +111,10 @@ Week 8:
 - [] Day 56
 
 
-Week 9:
+Week 9: Advanced NLP with Python.
+[spaCy for text processing](https://course.spacy.io/en/)
+[LSTM and use cases](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+[NLP with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
 ---
 
 - [] Day 57
@@ -103,7 +125,7 @@ Week 9:
 - [] Day 62
 - [] Day 63
 
-Week 10:
+Week 10: Advanced NLP with Python: Vector Models and RNNs. 
 ---
 
 - [] Day 64
