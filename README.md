@@ -1,174 +1,115 @@
-# Week 1
+** Days of Data part 2 ** 
+---
 
-[x] Day 1 : SQL
-
-Tina Mock interview #2
-
-[x] Day 2 : SQL
-
-Tina Mock interview #3
-PostgreSQL follow along
-
-[x] Day 3 : SQL
-
-Tina Mock interview # 4
-[Easy SS SQL question](https://platform.stratascratch.com/coding-question?id=10061&python=)
-
-[x] Day 4 : SQL
-
-Tina Mock interview # 5
-[Medium SS SQL Question: I failed it](https://platform.stratascratch.com/coding-question?id=10285&python=)
-[1/2 KNN Podcast with Dr.Parlett](https://www.youtube.com/watch?v=1PctFrquj9w&t=2204s)
+**Week 1: Revisit previous work in python. Build python reflex. **
+Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook).
+---
+- [] Day 1
+- [] Day 2
+- [] Day 3
+- [] Day 4
+- [] Day 5
+- [] Day 6
+- [] Day 7
 
 
-[x] Day 5 : SQL
+Week 2:
+---
 
-[Medium SS SQL Question: Got close!](https://platform.stratascratch.com/coding-question?id=10064&python=)
-I planned some extra learning but was interrupted. 
-[2/2 KNN Podcast with Dr.Parlett](https://www.youtube.com/watch?v=1PctFrquj9w&t=2204s)
+- [] Day 8
+- [] Day 9
+- [] Day 10
+- [] Day 11
+- [] Day 12
+- [] Day 13
+- [] Day 14
 
-[Reading about package testing](https://kbroman.org/pkg_primer/pages/tests.html)
+Week 3:
+---
 
+- [] Day 15
+- [] Day 16
+- [] Day 17
+- [] Day 18
+- [] Day 19
+- [] Day 20
+- [] Day 21
 
-[x] Day 6 : SQL
-Failed SQL test, short day. Birthday party out of town. 
+Week 4:
+---
 
-[x] Day 7 : Review
-No review, only #sliced dataset on twitch. Analysis started on Kaggle. 
-
-
-
-# Week 2
-"# 66-Days-of-Data" 
-
-[x] Day 8 :
-
-Rchamp live socket connection to twitch. Attempt. 
-[Twitch IRC guide](https://dev.twitch.tv/docs/irc/guide). 
-Hoping to have this done by the end of the week????
-
-
-[x] Day 9: 
-
-Continued to work on websocket. 
-Ran into [this](https://rdrr.io/github/rstudio/R-Websockets/man/websocket.html) after trying a couple of hours to get make.socket and Socket connection to work. 
-
-
-[x] Day 10:
-
-Got the websoket to connect, and print data into console. 
-Worked on SQL questions. Going to get all the free easy questions out of the way. 
-[1](https://platform.stratascratch.com/coding-question?id=10308&python=)
-[2](https://platform.stratascratch.com/coding-question?id=10299&python=) 
-[3](https://platform.stratascratch.com/coding-question?id=10046&python=)
-
-[x] Day 11:
-Day off, feeling guilty. 
-
-[x] Day 12:
-Logged live feed of [Dr.K livestream](https://www.twitch.tv/videos/1088612561). Using Rchamp! Will dissect data tmr. 
-
-[x] Day 13: 
-Day off
-
-[x] Day 14:
-Day Off
-
-[x] Day 15:
-Attempt to make Dr.K dataset useful. 
-
-[x] Day 16:
-Only 20 minutes today, didn't get far with Dr.K dataset. 
-
-[x] Day 17:
-Almost finished with LIS Plot
-
-[x] Day 18:
-Finished LIS plot
-![plot](https://github.com/mowgl-i/Cool-Vis/blob/main/lisplot.png)
-
-[x] Day 19:
-Took a Data Science assessment for a job application
-
-[x] Day 20:
-Day off. Out of town. 
-
-[x] Day 21:
-Simple day, refreshed on aggregations with SQL. 
-
-[x] Day 22:
-Long SQL day, finished easy questions stratascratch. 
-
-[x] Day 23:
-Continued with SQL training. 
-Have interview tmr. 
-
-[x] Day 24:
-Continued SQL training.
-Previous work refresher.
-Interview went well. 
-
-[x] Day 25:
-Finished MODE SQL lessons, completed a few more medium questions. 
-Another on the fly interview today, went well I believe. 
-
-[x] Day 26:
-Did more SQL practice. Watched a few Anastasia K videos. Took Epic Games assesment (SQL and Visualization). 
+- [] Day 22
+- [] Day 23
+- [] Day 24
+- [] Day 25
+- [] Day 26
+- [] Day 27
+- [] Day 28
 
 
-[x] Day 27:
-Almost finished with medium SQL questions from Stratascratch. Poggies. 
+Week 5:
+---
 
-[x] Day 28:
-Day off. Tbh I had the intentions but forgot until 12 minutes past 12am
+- [] Day 29
+- [] Day 30
+- [] Day 31
+- [] Day 32
+- [] Day 33
+- [] Day 34
+- [] Day 35
 
-[x] Day 29:
-Very quick SQL practice. The medium questions are done, now attempting the hard questions. 
-[quesiton 1](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?python=)
+Week 6:
+---
+
+- [] Day 36
+- [] Day 37
+- [] Day 38
+- [] Day 39
+- [] Day 40
+- [] Day 41
+- [] Day 42
+
+Week 7:
+---
+
+- [] Day 43
+- [] Day 44
+- [] Day 45
+- [] Day 46
+- [] Day 47
+- [] Day 48
+- [] Day 49
+
+Week 8:
+---
+
+- [] Day 50
+- [] Day 51
+- [] Day 52
+- [] Day 53
+- [] Day 54
+- [] Day 55
+- [] Day 56
 
 
-[x] Day 30:
-Completed 2 hard questions on stratascratch. 
-[1](https://platform.stratascratch.com/coding/9915-highest-cost-orders?python=)
-[2](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python=)
+Week 9:
+---
 
-[x] Day 31:
-Long day, did watch this [KNN podcast](https://www.youtube.com/watch?v=YsIcuj8o9wM). Gives me motivation to continue my Twitch endevours. 
-When they think about Twitch and data, I want to be one of those names that come up.  
+- [] Day 57
+- [] Day 58
+- [] Day 59
+- [] Day 60
+- [] Day 61
+- [] Day 62
+- [] Day 63
 
-[x] Day 32:
+Week 10:
+---
 
-Close to parsing Dr.K log. 
-Stuck on capturing text past 3rd colon.
-
-[x] Day 33:
-Finished Dr.K Log. Searched from end of line. Also wrapped live socket into function, though, I'm not sure how to close it once it's ran. 
-Maybe assign websocket to global env instead of local funciton env. 
-
-[X] Day 34:
-Let the logger collect XQC data. Still going as I type. Though, I will remove or add option to print chat to console. Atm R is still collecting but the gui has frozen.
-
-[x] Day 35:
-Day off
-
-[x] Day 36:
-Slow day, watched [KNN video](https://www.youtube.com/watch?v=5c4UvVB2zdU&t=10s)
-
-[x] Day 37:
-Learned some quick tips about Big Query, watched noise VS bias anastasia K vid, now watching sliced semifinals. 
-
-[x] Day 38:
-Busy day, watched a [KNN short about data viz](https://www.youtube.com/watch?v=LQGK4IL7kOE)
-
-[x] Day 39:
-Re-programed my keyboard to use mouse keys. Will keep tweaking it so that I won't need a mouse in the office.
-
-[x] Day 40:
-Day Off -> There was actually some time left in the day, 
-so I watched some KNN podcast clips about studying and a snippit of Anastasia K vid 'interview with data scientist'
-
-[x] Day 41:
-Day off
-
-[x] Day 42: 
-Day off
+- [] Day 64
+- [] Day 65
+- [] Day 66
+- [] Day 67
+- [] Day 68
+- [] Day 69
+- [] Day 70
