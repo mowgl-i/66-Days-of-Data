@@ -7,7 +7,7 @@ Week 1: Revisit previous work in python. Build python reflex.
 Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook).
 
 ---
-- [] Day 1
+- [x] Day 1 Finished [Tina's](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww) [SQL for Tech and Data Science Interviews](https://www.udemy.com/course/sql-for-tech-and-data-science-interviews/learn/lecture/26613654#questions/15758816)
 - [] Day 2
 - [] Day 3
 - [] Day 4
