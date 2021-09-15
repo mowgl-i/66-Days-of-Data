@@ -9,7 +9,7 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 ---
 - [x] Day 1: Finished [Tina's](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww) [SQL for Tech and Data Science Interviews](https://www.udemy.com/course/sql-for-tech-and-data-science-interviews/learn/lecture/26613654#questions/15758816)
 - [x] Day 2: Spinned up a GCP Virtual Machine and loaded it with Python, Visual Studio and some additional helpers (Juypter, Black). First time coding in VS, liking it so far. Hopefully this VM set up will jumpstart some coding assignments untill I get some official credentials to work with client data. Test 
-- [] Day 3
+- [x] Day 3: Revisited Chapter 3 of Linked book above for pandas. Read and Looked at Pandas Profiling. May actually use in the next week. 
 - [] Day 4
 - [] Day 5
 - [] Day 6
