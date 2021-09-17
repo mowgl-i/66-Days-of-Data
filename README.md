@@ -11,7 +11,7 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 - [x] Day 2: Spinned up a GCP Virtual Machine and loaded it with Python, Visual Studio and some additional helpers (Juypter, Black). First time coding in VS, liking it so far. Hopefully this VM set up will jumpstart some coding assignments untill I get some official credentials to work with client data. Test 
 - [x] Day 3: Revisited Chapter 3 of Linked book above for pandas. Read and Looked at Pandas Profiling. May actually use in the next week. 
 - [x] Day 4: Off topic - Looked at a few different ML certs. My productions skills are lacking, so I may need to change the content of this 66 days to better align with my weaknesses. Also re-built the VM to Linux and learned about Poetry(Dependency Manager)
-- [x] Day 5: Yesterday and today were short on time. At work I learned how to use pyenv and poetry for version and dependency management. My goal is to remote into the GCP Virtual Machine (where pyenv is installed), and spin up two projects each with different versions of python, and different versions of the desired libraries. Pretty neat stuff!
+- [x] Day 5: Yesterday and today were short on time. At work I learned how to use pyenv and poetry for version and dependency management. My goal is to remote into the GCP Virtual Machine (where pyenv is installed), and spin up two projects each with different versions of python, and different versions of the desired libraries. Pretty neat stuff! Test
 - [] Day 6
 - [] Day 7
 
