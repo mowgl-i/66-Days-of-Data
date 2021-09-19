@@ -13,7 +13,7 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 - [x] Day 4: Off topic - Looked at a few different ML certs. My productions skills are lacking, so I may need to change the content of this 66 days to better align with my weaknesses. Also re-built the VM to Linux and learned about Poetry(Dependency Manager)
 - [x] Day 5: Yesterday and today were short on time. At work I learned how to use pyenv and poetry for version and dependency management. My goal is to remote into the GCP Virtual Machine (where pyenv is installed), and spin up two projects each with different versions of python, and different versions of the desired libraries. Pretty neat stuff!
 - [x] Day 6: Briefly learned about Docker, Kubernetes and Kubeflow for machine learning. I have alot more to learn about containerized environments for ML deployment. 
-- [] Day 7
+- [x] Day 7: Learned about classes and Self. Now gotta learn to to make ML classes 😭. Also forgot to push this, this it posted day 8 😅 rip contributor streak.
 
 
 Week 2: Looking for indepth pandas magic to speed up analysis. 
