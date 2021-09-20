@@ -16,7 +16,7 @@ Using [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienc
 - [x] Day 7: Learned about classes and Self. Now gotta learn to to make ML classes 😭. Also forgot to push this, this it posted day 8 😅 rip contributor streak.
 
 
-Week 2: Looking for indepth pandas magic to speed up analysis. 
+Week 2: Looking for indepth pandas magic to speed up analysis. **I actually need to update the rest of the challenge since my objectives have changed a bit.** 
 ---
 
 [Welcome to advanced pandas](https://www.kaggle.com/residentmario/welcome-to-advanced-pandas)
@@ -33,7 +33,7 @@ Week 2: Looking for indepth pandas magic to speed up analysis.
 
 ---
 
-- [] Day 8
+- [x] Day 8: Read about the google style guide. Learned more about asserts and how to handle Try and Except blocks. I must get better at Docstrings as well for documenting classes. Also didn't know you can use Self outside of classes. 
 - [] Day 9
 - [] Day 10
 - [] Day 11
