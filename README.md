@@ -34,7 +34,7 @@ Week 2: Looking for indepth pandas magic to speed up analysis. **I actually need
 ---
 
 - [x] Day 8: Read about the google style guide. Learned more about asserts and how to handle Try and Except blocks. I must get better at Docstrings as well for documenting classes. Also didn't know you can use Self outside of classes. 
-- [] Day 9
+- [x] Day 9: Brought code up to google docstring style. Used type hinting in a function. Learned briefly about to create python packages.  
 - [] Day 10
 - [] Day 11
 - [] Day 12
