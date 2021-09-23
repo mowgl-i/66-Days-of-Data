@@ -36,7 +36,7 @@ Week 2: Looking for indepth pandas magic to speed up analysis. **I actually need
 - [x] Day 8: Read about the google style guide. Learned more about asserts and how to handle Try and Except blocks. I must get better at Docstrings as well for documenting classes. Also didn't know you can use Self outside of classes. 
 - [x] Day 9: Brought code up to google docstring style. Used type hinting in a function. Learned briefly about to create python packages.  
 - [x] Day 10: Writting an Python package complete with own modules. Nothing special just conducting RF model on the Iris dataset. Having it take key arguments, lots of self.thing. It feels much more modular this way. 
-- [] Day 11
+- [x] Day 11: Somewhat finished the package. It has it's own modules and .py files, runs main() when invoked and takes command line arguments with docopt. Also breezed through this: [Applied Pandas - Twitter Analytics](https://store.metasnake.com/courses/applied-pandas-twitter-analytics). I picked up this course from humble bundle. Going to read Noah Gift's ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Hope to keep up with this for a few days on this challenge. 10 chapters, 1 chapter a day?? He also JUST published [Practical MLOps](https://github.com/noahgift)
 - [] Day 12
 - [] Day 13
 - [] Day 14
