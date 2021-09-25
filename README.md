@@ -38,7 +38,7 @@ Week 2: Looking for indepth pandas magic to speed up analysis. **I actually need
 - [x] Day 10: Writting an Python package complete with own modules. Nothing special just conducting RF model on the Iris dataset. Having it take key arguments, lots of self.thing. It feels much more modular this way. 
 - [x] Day 11: Somewhat finished the package. It has it's own modules and .py files, runs main() when invoked and takes command line arguments with docopt. Also breezed through this: [Applied Pandas - Twitter Analytics](https://store.metasnake.com/courses/applied-pandas-twitter-analytics). I picked up this course from humble bundle. Going to read Noah Gift's ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Hope to keep up with this for a few days on this challenge. 10 chapters, 1 chapter a day?? He also JUST published [Practical MLOps](https://github.com/noahgift)
 - [x] Day 12: Read the first chapter of 'Cloud Computing for Data Analysis'. YO! That chapter was jammed packed with resources. I read through it, and tmr I will go through the linked resources. Then read Chapter 2 on day 13, then go over chapter 2 resources on Day 14? 
-- [] Day 13
+- [x] Day 13: Set up Azure resourse, Azure ML, Azure KeyVault, Azure Storage, Azure Insights... Just gotta get some data in there next. Hope to read chapter 2 tmr. 
 - [] Day 14
 
 Week 3: ML with Python Review 
