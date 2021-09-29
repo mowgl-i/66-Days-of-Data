@@ -54,7 +54,7 @@ Week 3: ML with Python Review
 
 - [x] Day 15: Re-formatted my google sheet where I track my stock trading. 
 - [x] Day 16: Learned about Databricks and Azure. Having trouble uploading data to the blob. Delta lakes are cool. I gotta think harder about mounting to the blob/container and working with the data. 
-- [] Day 17
+- [x] Day 17: Completed a intro to databricks and azure notebook. Attached parquet file to my very own file storage and mounted it to the notebook!
 - [] Day 18
 - [] Day 19
 - [] Day 20
