@@ -57,15 +57,14 @@ Week 3: Learn about machine learning in the cloud -> AZURE
 - [x] Day 17: Completed a intro to databricks and azure notebook. Attached parquet file to my very own file storage and mounted it to the notebook!
 - [x] Day 18: Read chapter 2 and began chapter 3 of ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Topics where cloud computing foundations and then Docker, Kubernetes, Hybrids clouds and some more! This book is so insightful and has neat little links which lend themselfs to a great mobile reading experience. 
 - [x] Day 19: Through the week I was working on this course - ['Perform data science with Azure Databricks'](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/). I finished that today. Hopefully soon I can put it to use. I have an idea of automating my reddit classifer or 'upserting' data from my IoT device into a vizualization. 
-- [] Day 20
+- [x] Day 20: Watched [How Starbucks Forescasts Demand at Scale wiht FaceBook Prophet and Azure Databricks](https://vimeo.com/391153676/d1d8c31c1c). At first I didn't see the value of building a single product-price model but the power came from using pandas UDFs to train models on each product-store combo which you can distribute the workload on Azure Databricks with Spark. B) Also updated Next weeks goals. 
 - [] Day 21
 
-Week 4: Building Portfolios with Python
+Week 4: Practicle MLOps: by Noah Gift. 
+
+I need to ramp up my cloud skills, and try to become as 'full-stack' as possible. Not sure how far this book will take me into 'full-stack' but it's a start!
 ---
-
-[DS Portfolio](https://github.com/sajal2692/data-science-portfolio)
-
-[Portfolio in Python and Django](https://dev.to/randysteele/how-i-built-my-portfolio-site-in-django-part-1-53nk)
+[Practical MLOps: Operationalizing Machine Learning Models](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 ---
 
