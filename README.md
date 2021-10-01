@@ -41,14 +41,14 @@ Week 2: Looking for indepth pandas magic to speed up analysis. **I actually need
 - [x] Day 13: Set up Azure resourse, Azure ML, Azure KeyVault, Azure Storage, Azure Insights... Just gotta get some data in there next. Hope to read chapter 2 tmr. 
 - [x] Day 14: Light day today. Watched a brief video about [comparing different implementations of gradient bosting algos](https://www.youtube.com/watch?v=yO6gJM_t1Bw). Of course aglos should be considered carefully when implementing but CatBoost came out on top for accuracy and speed(top speed meaning slowest algo). 
 
-Week 3: ML with Python Review 
+Week 3: Learn about machine learning in the cloud -> AZURE
 ---
 
 [Intro to ML with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)
 
-[Understanding ML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data)
 
-[Google ML course](https://developers.google.com/machine-learning/crash-course)
+[Perform data science with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/)
 
 ---
 
@@ -56,7 +56,7 @@ Week 3: ML with Python Review
 - [x] Day 16: Learned about Databricks and Azure. Having trouble uploading data to the blob. Delta lakes are cool. I gotta think harder about mounting to the blob/container and working with the data. 
 - [x] Day 17: Completed a intro to databricks and azure notebook. Attached parquet file to my very own file storage and mounted it to the notebook!
 - [x] Day 18: Read chapter 2 and began chapter 3 of ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Topics where cloud computing foundations and then Docker, Kubernetes, Hybrids clouds and some more! This book is so insightful and has neat little links which lend themselfs to a great mobile reading experience. 
-- [] Day 19
+- [x] Day 19: Through the week I was working on this course - ['Perform data science with Azure Databricks'](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/). I finished that today. Hopefully soon I can put it to use. I have an idea of automating my reddit classifer or 'upserting' data from my IoT device into a vizualization. 
 - [] Day 20
 - [] Day 21
 
