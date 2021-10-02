@@ -58,7 +58,11 @@ Week 3: Learn about machine learning in the cloud -> AZURE
 - [x] Day 18: Read chapter 2 and began chapter 3 of ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Topics where cloud computing foundations and then Docker, Kubernetes, Hybrids clouds and some more! This book is so insightful and has neat little links which lend themselfs to a great mobile reading experience. 
 - [x] Day 19: Through the week I was working on this course - ['Perform data science with Azure Databricks'](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/). I finished that today. Hopefully soon I can put it to use. I have an idea of automating my reddit classifer or 'upserting' data from my IoT device into a vizualization. 
 - [x] Day 20: Watched [How Starbucks Forescasts Demand at Scale wiht FaceBook Prophet and Azure Databricks](https://vimeo.com/391153676/d1d8c31c1c). At first I didn't see the value of building a single product-price model but the power came from using pandas UDFs to train models on each product-store combo which you can distribute the workload on Azure Databricks with Spark. B) Also updated Next weeks goals. 
-- [] Day 21
+- [x] Day 21: Attended satRdays - an R conference. I listened to three talks.
+
+1: Intro to CatBoost
+2: The Current State of NLP and Text-Based Machine Learning Modeling. 
+3: Survey, Linguistics, Analysis kNowledge Guide: SLANG, a tool for multi-faceted text analysis in R.
 
 Week 4: Practicle MLOps: by Noah Gift. 
 
