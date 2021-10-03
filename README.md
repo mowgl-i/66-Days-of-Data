@@ -65,14 +65,15 @@ Week 3: Learn about machine learning in the cloud -> AZURE
 3: Survey, Linguistics, Analysis kNowledge Guide: SLANG, a tool for multi-faceted text analysis in R.
 
 Week 4: Practicle MLOps: by Noah Gift. 
+---
 
 I need to ramp up my cloud skills, and try to become as 'full-stack' as possible. Not sure how far this book will take me into 'full-stack' but it's a start!
----
+
 [Practical MLOps: Operationalizing Machine Learning Models](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 ---
 
-- [] Day 22
+- [x] Day 22: Read Chapter 4 and 5 of ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Topics where Cloud Storage (AWS mainily) and challenges with distributed computing (the issues with CPU computing and benifits to GPU and TPU).
 - [] Day 23
 - [] Day 24
 - [] Day 25
