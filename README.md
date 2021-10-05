@@ -74,7 +74,7 @@ I need to ramp up my cloud skills, and try to become as 'full-stack' as possible
 ---
 
 - [x] Day 22: Read Chapter 4 and 5 of ['Cloud Computing for Data Analysis'](https://leanpub.com/cloud4data). Topics where Cloud Storage (AWS mainily) and challenges with distributed computing (the issues with CPU computing and benifits to GPU and TPU).
-- [] Day 23
+- [x] Day 23: Read the prologue and 1/2 of Chapter 1 -> [Practical MLOps: Operationalizing Machine Learning Models](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) Topics where: What is MLOps? How did MLOps become needed? The fundamentals of MLOps. The intersection of ML and DevOps = MLOps. Kaizen, continuous improvement.
 - [] Day 24
 - [] Day 25
 - [] Day 26
