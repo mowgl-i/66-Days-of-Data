@@ -79,7 +79,7 @@ I need to ramp up my cloud skills, and try to become as 'full-stack' as possible
 - [x] Day 25: Built a twitch chat websocket on python. Trying to connect it to AWS Kinesis for streaming data analysis. I plan to read MLOps tonight before bed. 
 - [x] Day 26: Finished chapter 12 - began Chapter 2. Also connected the python script to Kinesis firehouse! Though, I can't see the raw data, I can see the transactions.
 - [x] Day 27: Read a little bit more of Chapter 2. Completed a few exercises from Chapter 1 (CI and CD with Github actions and AWS Codebuild!). Build makefiles and tests to facilitate the continuous integration. Also finished the Factfullness audio book. 
-- [] Day 28
+- [x] Day 28: Finished Chapter 2! Short day today. 
 
 
 Week 5: Cloud data products and their relevance to my work. A goal in mind here is to send twitch data into a Bigquery DB or AWS Bucket. 
