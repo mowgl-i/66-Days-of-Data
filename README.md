@@ -77,8 +77,8 @@ I need to ramp up my cloud skills, and try to become as 'full-stack' as possible
 - [x] Day 23: Read the prologue and 1/2 of Chapter 1 -> [Practical MLOps: Operationalizing Machine Learning Models](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) Topics where: What is MLOps? How did MLOps become needed? The fundamentals of MLOps. The intersection of ML and DevOps = MLOps. Kaizen, continuous improvement.
 - [x] Day 24: Finished chapter 1: Continues to address the usefulness and need for MLOps. Some exercises and questions are prompted which I plan to answer tomorow. Began reading Chapter 12 (1/2). This chapter is about case studies and linking MLOps to the real world. I thought this would be a good place to start so that the excercises would be more engaging. Reading these case studies is building my motivation to begin MLOps. I will think about my previous work and see if I can save it using MLOps. 
 - [x] Day 25: Built a twitch chat websocket on python. Trying to connect it to AWS Kinesis for streaming data analysis. I plan to read MLOps tonight before bed. 
-- [x] Day 26: Finished chapter 12 - began chanter 2. Also connected the python script to Kinesis firehouse! Though, I can't see the raw data, I can see the transactions.
-- [] Day 27
+- [x] Day 26: Finished chapter 12 - began Chapter 2. Also connected the python script to Kinesis firehouse! Though, I can't see the raw data, I can see the transactions.
+- [x] Day 27: Read a little bit more of Chapter 2. Completed a few exercises from Chapter 1 (CI and CD with Github actions and AWS Codebuild!). Build makefiles and tests to facilitate the continuous integration. Also finished the Factfullness audio book. 
 - [] Day 28
 
 
