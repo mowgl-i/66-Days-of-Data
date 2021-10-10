@@ -93,7 +93,7 @@ Week 5: Cloud data products and their relevance to my work. A goal in mind here 
 
 ---
 
-- [] Day 29
+- [x] Day 29: Read Half of Chapter 3! It was about container and contained a walkthrough of setting one up (I did follow it....YET)
 - [] Day 30
 - [] Day 31
 - [] Day 32
