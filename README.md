@@ -94,7 +94,7 @@ Week 5: Cloud data products and their relevance to my work. A goal in mind here 
 ---
 
 - [x] Day 29: Read Half of Chapter 3! It was about container and contained a walkthrough of setting one up (I did follow it....YET)
-- [] Day 30
+- [x] Day 30: Finished Chapter 3. The last half was about edge computing and highlighed where containers may play a role in configuring ML models for edge deployment. I'm beginning to understand how useful containers can be. Also messed around in Gitlab. Hoping to do some CI/CD in Gitlab tomorrow.   
 - [] Day 31
 - [] Day 32
 - [] Day 33
