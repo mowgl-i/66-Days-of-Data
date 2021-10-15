@@ -97,7 +97,7 @@ Week 5: Cloud data products and their relevance to my work. A goal in mind here 
 - [x] Day 30: Finished Chapter 3. The last half was about edge computing and highlighed where containers may play a role in configuring ML models for edge deployment. I'm beginning to understand how useful containers can be. Also messed around in Gitlab. Hoping to do some CI/CD in Gitlab tomorrow.   
 - [x] Day 31: Read Half of Chapter 4. I'm sensing a pattern here! I believe 1/2 chapter (about 20 pages) seems to fill me up on the reading. Got the CI/CD working in gitlab today :)
 - [x] Day 32: Finished Chapter 4. Added a basic RF model into the MLOps repo complete with lints and tests so that the repo builds correctly with every push :)
-- [] Day 33
+- [x] Day 33: Finished Chapter 5. This chapter was about AutoML. I was today years old when I found out apple has an autoML solution built-in. 
 - [] Day 34
 - [] Day 35
 
