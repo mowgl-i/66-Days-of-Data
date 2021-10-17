@@ -104,7 +104,7 @@ Week 5: Cloud data products and their relevance to my work. A goal in mind here 
 Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view)
 ---
 
-- [] Day 36
+- [x] Day 36:  Finished Chapter 10. The chapter wrapped up with converting a few tf modles to onnx format. Then converting an onnx format to apple ML.
 - [] Day 37
 - [] Day 38
 - [] Day 39
