@@ -99,7 +99,7 @@ Week 5: Cloud data products and their relevance to my work. A goal in mind here 
 - [x] Day 32: Finished Chapter 4. Added a basic RF model into the MLOps repo complete with lints and tests so that the repo builds correctly with every push :)
 - [x] Day 33: Finished Chapter 5. This chapter was about AutoML. I was today years old when I found out apple has an autoML solution built-in. 
 - [x] Day 34: Finished chapter 6. Logging and monitoring. I need to review the last 6 chapters tomorrow. 
-- [] Day 35
+- [x] Day 35: Started chapter 10. This chapter is about model interoperablity. Chapters 7-8-9 deal with the big 3 cloud providers. I want to get each of those chapters special time. 
 
 Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view)
 ---
