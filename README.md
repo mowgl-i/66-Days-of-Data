@@ -106,7 +106,7 @@ Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9
 
 - [x] Day 36: Finished Chapter 10. The chapter wrapped up with converting a few tf modles to onnx format. Then converting an onnx format to apple ML.
 - [x] Day 37: Started Chapter 11. :) A bit less than half the chapter today. First section is about CLI tools. 
-- [] Day 38
+- [x] Day 38: Continued with Chapter 11. Encouraged new users to use highlevel 'severless' platforms as microservices. Don't invent the wheel, just use AWS coderunner. Sounds interesting!
 - [] Day 39
 - [] Day 40
 - [] Day 41
