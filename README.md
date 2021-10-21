@@ -108,7 +108,7 @@ Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9
 - [x] Day 37: Started Chapter 11. :) A bit less than half the chapter today. First section is about CLI tools. 
 - [x] Day 38: Continued with Chapter 11. Encouraged new users to use highlevel 'severless' platforms as microservices. Don't invent the wheel, just use AWS coderunner. Sounds interesting!
 - [x] Day 39: Finished Chapter 11. Thinking about re-reading chapter 12 though, I really need to start attacking all of the questions and exercises from the other chapters. 
-- [] Day 40
+- [x] Day 40: Skimmed back over Chapter 12 (Case study about Athlete Intel). Read some Appendix chapters: Tech certifications (lots of info on AWS, focused on Azure), Remote work, Think like a Venture Capitalist (when build an ML career). I guess I'm doing everything I can to avoid these exercises huh? LOL
 - [] Day 41
 - [] Day 42
 
