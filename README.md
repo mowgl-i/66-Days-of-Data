@@ -110,7 +110,7 @@ Week 6: Deep Learning Begins: [Keras](https://drive.google.com/file/d/1yZlVKotI9
 - [x] Day 39: Finished Chapter 11. Thinking about re-reading chapter 12 though, I really need to start attacking all of the questions and exercises from the other chapters. 
 - [x] Day 40: Skimmed back over Chapter 12 (Case study about Athlete Intel). Read some Appendix chapters: Tech certifications (lots of info on AWS, focused on Azure), Remote work, Think like a Venture Capitalist (when build an ML career). I guess I'm doing everything I can to avoid these exercises huh? LOL
 - [x] Day 41: Finally reading chapter 8: Azure ML
-- [] Day 42
+- [x] Day 42: 2/3 of the way with chapter 8 - Registering Models, Registering Datasets and Deploying Models. 
 
 Week 7: Deep Learning Continues: 
 ---
