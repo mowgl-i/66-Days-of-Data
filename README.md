@@ -120,7 +120,7 @@ Week 7: Deep Learning Continues:
 [NLP with Pytorch](https://app.pluralsight.com/library/courses/natural-language-processing-pytorch/table-of-contents)
 
 - [x] Day 43: Made changes to Rchamp also added a github actions test when merging into main. I want to add lints and tests to the package. Eventually I would like to set up some auto data collection into an s3 bucket. 
-- [] Day 44
+- [x] Day 44: Learned about xgboost4j in spark for distributed spark training. 
 - [] Day 45
 - [] Day 46
 - [] Day 47
