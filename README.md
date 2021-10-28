@@ -122,7 +122,7 @@ Week 7: Deep Learning Continues:
 - [x] Day 43: Made changes to Rchamp also added a github actions test when merging into main. I want to add lints and tests to the package. Eventually I would like to set up some auto data collection into an s3 bucket. 
 - [x] Day 44: Learned about xgboost4j in spark for distributed spark training. 
 - [x] Day 45: Finished Chapter 8, Attempted to use sparkdl for XGboost on EMR. Failed! I'll try again tmr... I think
-- [] Day 46
+- [x] Day 46: Spent most of the day trying to get xgboost onto emr. Wether it be different EMR versions. My last attempt will try to build the xgboost4j library for spark. 
 - [] Day 47
 - [] Day 48
 - [] Day 49
