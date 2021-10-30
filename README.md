@@ -123,8 +123,8 @@ Week 7: Deep Learning Continues:
 - [x] Day 44: Learned about xgboost4j in spark for distributed spark training. 
 - [x] Day 45: Finished Chapter 8, Attempted to use sparkdl for XGboost on EMR. Failed! I'll try again tmr... I think
 - [x] Day 46: Spent most of the day trying to get xgboost onto emr. Wether it be different EMR versions. My last attempt will try to build the xgboost4j library for spark. 
-- [] Day 47
-- [] Day 48
+- [x] Day 47: Continued to try and build Xgboost4j for spark. Tried in EMR 5.19 and 5.33. 5.33 seemed to work but not 5.19! I don't think it will be woth the effort atm to continue down this path. 
+- [x] Day 48: Read some more about MLOps in GCP. 
 - [] Day 49
 
 Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
