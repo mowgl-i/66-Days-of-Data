@@ -130,8 +130,8 @@ Week 7: Deep Learning Continues:
 Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 ---
 
-- [] Day 50
-- [] Day 51
+- [x] Day 50: NOOOOOOOOOOO I missed this day :(
+- [x] Day 51: Watched IAC with AWS CDK on [pragmatic labs](https://www.youtube.com/watch?v=-AWZAAjtH9o). Honestly, I need to revisit the plan for the rest of the challenge so that I can act on it. I've been ignoring the exercises :(. 
 - [] Day 52
 - [] Day 53
 - [] Day 54
