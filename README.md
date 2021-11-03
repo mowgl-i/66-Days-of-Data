@@ -132,7 +132,7 @@ Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resource
 
 - [x] Day 50: NOOOOOOOOOOO I missed this day :(
 - [x] Day 51: Watched IAC with AWS CDK on [pragmatic labs](https://www.youtube.com/watch?v=-AWZAAjtH9o). Honestly, I need to revisit the plan for the rest of the challenge so that I can act on it. I've been ignoring the exercises :(. 
-- [] Day 52
+- [x] Day 52: Another day GONE! No time set aside for the challenge so I watched [GCP cloud functions for the impatient](https://www.youtube.com/watch?v=uyiF3MFFd7k)
 - [] Day 53
 - [] Day 54
 - [] Day 55
