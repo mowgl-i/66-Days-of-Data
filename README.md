@@ -136,7 +136,7 @@ Week 8: [TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resource
 - [x] Day 53: Added Chapter 2 exercises and questions to my private repo :) 
 - [x] Day 54: Read some more about GCP in Chapter 9, started with GKE. Also watched this vedo on [DS for infrastructure](https://www.youtube.com/watch?v=LkZfqg3WYFg)
 - [x] Day 55: Updated the CI for Rchamp package. Couldn't get it to completely work yet :(
-- [] Day 56:
+- [x] Day 56: Watched part of [this screen cast](https://youtu.be/TBZKfyYWtXs)
 
 
 Week 9: Advanced NLP with Python.
