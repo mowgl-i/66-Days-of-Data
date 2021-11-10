@@ -150,9 +150,9 @@ Week 9: Advanced NLP with Python.
 
 ---
 
-- [] Day 57
-- [] Day 58
-- [] Day 59
+- [x] Day 57: Watched some more of the DVC screen cast.
+- [x] Day 58: NOOO9OOOO I FORGOT!
+- [x] Day 59: Learned about DVC experiments. Looks a lot like AWS sage maker.
 - [] Day 60
 - [] Day 61
 - [] Day 62
