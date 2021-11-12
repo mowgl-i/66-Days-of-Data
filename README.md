@@ -153,8 +153,8 @@ Week 9: Advanced NLP with Python.
 - [x] Day 57: Watched some more of the DVC screen cast.
 - [x] Day 58: NOOO9OOOO I FORGOT!
 - [x] Day 59: Learned about DVC experiments. Looks a lot like AWS sage maker.
-- [] Day 60
-- [] Day 61
+- [x] Day 60: NOOOOOOOOOOOO
+- [x] Day 61: Watched [AWS lambda demo by Noah Gift](https://www.youtube.com/watch?v=-CqQ9SEcIOU). Pretty interesting! A tool I could use for when I build a twitch sentiment api call. Since AWS lambda scales...
 - [] Day 62
 - [] Day 63
 
