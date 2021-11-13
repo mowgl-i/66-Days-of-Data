@@ -155,7 +155,7 @@ Week 9: Advanced NLP with Python.
 - [x] Day 59: Learned about DVC experiments. Looks a lot like AWS sage maker.
 - [x] Day 60: NOOOOOOOOOOOO
 - [x] Day 61: Watched [AWS lambda demo by Noah Gift](https://www.youtube.com/watch?v=-CqQ9SEcIOU). Pretty interesting! A tool I could use for when I build a twitch sentiment api call. Since AWS lambda scales...
-- [] Day 62
+- [x] Day 62: Watched an AWS study guide by Noah Gift. Going to be looking for an Azure study guide. Study guides for DS or MLE 
 - [] Day 63
 
 Week 10: Advanced NLP with Python: Vector Models and RNNs. 
