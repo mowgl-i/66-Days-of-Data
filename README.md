@@ -156,7 +156,7 @@ Week 9: Advanced NLP with Python.
 - [x] Day 60: NOOOOOOOOOOOO
 - [x] Day 61: Watched [AWS lambda demo by Noah Gift](https://www.youtube.com/watch?v=-CqQ9SEcIOU). Pretty interesting! A tool I could use for when I build a twitch sentiment api call. Since AWS lambda scales...
 - [x] Day 62: Watched an AWS study guide by Noah Gift. Going to be looking for an Azure study guide. Study guides for DS or MLE 
-- [] Day 63
+- [x] Day 63: [Intro CICI with DVS](https://www.youtube.com/watch?v=9BgIDqAzfuA). Feeling like im in a code rut :(.
 
 Week 10: Advanced NLP with Python: Vector Models and RNNs. 
 ---
