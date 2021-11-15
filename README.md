@@ -161,7 +161,7 @@ Week 9: Advanced NLP with Python.
 Week 10: Advanced NLP with Python: Vector Models and RNNs. 
 ---
 
-- [] Day 64
+- [x] Day 64: Watche [#2](https://www.youtube.com/watch?v=kZKAuShWF0s) and [#3](https://www.youtube.com/watch?v=xPncjKH6SPk) of the MLOps playlist from DVC
 - [] Day 65
 - [] Day 66
 - [] Day 67
