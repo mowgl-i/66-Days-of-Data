@@ -161,9 +161,9 @@ Week 9: Advanced NLP with Python.
 Week 10: Advanced NLP with Python: Vector Models and RNNs. 
 ---
 
-- [x] Day 64: Watche [#2](https://www.youtube.com/watch?v=kZKAuShWF0s) and [#3](https://www.youtube.com/watch?v=xPncjKH6SPk) of the MLOps playlist from DVC
-- [] Day 65
-- [] Day 66
+- [x] Day 64: Watch [#2](https://www.youtube.com/watch?v=kZKAuShWF0s) and [#3](https://www.youtube.com/watch?v=xPncjKH6SPk) of the MLOps playlist from DVC
+- [x] Day 65: Read about NLP word embeddings used in non-NLP settings. Such as product similarty for online purchases. **[Blog HERE](https://towardsdatascience.com/embeddings-with-word2vec-in-non-nlp-contexts-details-e879b093d34d)**
+- [x] Day 66: Watched [#4](https://www.youtube.com/watch?v=rVq-SCNyxVc) of MLOPs playlist. This is using custom code-runers for CI/CD which I think is cool. This is good for using GPU runners for DL runners. 
 - [] Day 67
 - [] Day 68
 - [] Day 69
